@@ -1,2 +1,3 @@
-# can-i-tell-you-a-secret
-A repo with known secrets issues in order to assist you with shift left and identification of secrets
+# Can I tell you a secret?
+
+This repo is intended to be used to help identify known committed secrets, identify them, and remediate them.

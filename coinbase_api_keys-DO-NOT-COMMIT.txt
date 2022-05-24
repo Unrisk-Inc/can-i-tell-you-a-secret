@@ -1,0 +1,6 @@
+# TODO
+Note to self, add these to Excel doc with passwords
+I shouldn't commit these are this gives access to my Coinbase account for my trader to auto trade
+
+client_id: uETKVUnnPuXzVaVj
+client_secret: 32zAkQCcHHYkGGn29VkvEZvn21PM1lgO
